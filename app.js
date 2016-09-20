@@ -1,0 +1,12 @@
+var username = prompt('What is your name?');
+var city = prompt('Where do you live?');
+var activity = prompt('What do you do for fun?');
+var tv = prompt('What is your favorite TV show?');
+alert('Welcome, ' + username + '!');
+alert(city + ' sounds like a great place' + '!');
+alert(activity + ' does sound like fun! ');
+alert('I wish I enjoiyed shows like ' + tv);
+console.log('The user\'s name is ' + username);
+console.log('The user lives in ' + city);
+console.log('The user enjoys ' + activity);
+console.log('The user watches ' + tv);
