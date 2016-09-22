@@ -54,3 +54,37 @@ else {
   alert('Your right, I suck.');
   console.log(answer5 + ' the user thinks I suck');
 }
+
+for (var i = 0; i < 4; i++) {
+  console.log(i);
+
+  var trips = 300;
+  var guess = parseInt(prompt('How many times have I been to Canada?'));
+  if (guess === trips) {
+    // correct
+    alert('Great Guess!');
+    break;
+  } else {
+    // incorrect
+    // alert('You goofed');
+    if (guess > trips) {
+      alert('You are too high');
+    } else {
+      alert('You are too low');
+    }
+  }
+}
+
+
+
+while (i < 6) {
+
+  for (i = 0; i <array; i++)
+  var guessSports = [Hockey, Golf, ]
+
+  )
+
+
+
+
+}

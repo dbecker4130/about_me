@@ -1,6 +1,12 @@
-* {
+header {
   color: red;
   font-family: Verdana;
   font-weight:bold;
+  text-align: center;
+}
+ul {
+  font-family: Calibri, black;
+}
+body {
   text-align: center;
 }
