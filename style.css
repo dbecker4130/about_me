@@ -6,7 +6,15 @@ header {
 }
 ul {
   font-family: Calibri, black;
+  list-style-type: none;
 }
 body {
   text-align: center;
+  background-color: #9F7C4F;
+}
+h1 {
+  color: #FAC27D;
+}
+ol {
+  list-style-type: none;
 }
